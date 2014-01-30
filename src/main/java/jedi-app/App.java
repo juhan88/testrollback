@@ -1,4 +1,4 @@
-package jedi-app;
+
 
 /**
  * Hello world!
