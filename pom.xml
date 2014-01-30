@@ -3,7 +3,7 @@
   <groupId>jedi-app</groupId>
   <artifactId>jedi-rollback</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
   <name>jedi-rollback</name>
    <url>https://github.com/juhan88/testrollback</url>
 
