@@ -8,8 +8,8 @@
    <url>https://github.com/juhan88/testrollback</url>
 
   <scm>
-    <connection>scm:git:git@github.com:juhan88/testrollback.git</connection>
-    <developerConnection>scm:git://git@github.com:juhan88/testrollback.git</developerConnection>
+    <connection>scm:git:https://github.com/juhan88/testrollback.git</connection>
+    <developerConnection>scm:git://https://github.com/juhan88/testrollback.git</developerConnection>
     <url>https://github.com/juhan88/testrollback</url>
     <tag>HEAD</tag>
   </scm>
